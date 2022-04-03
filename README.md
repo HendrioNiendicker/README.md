@@ -1,10 +1,11 @@
-# README.md
+/*# README.md
 Desafio 01
 Dado uma palavra qualquer p, construa um algoritmo que calcule a pontuação da palavra de acordo com a pontuação informada na tabela abaixo:
 Por exemplo, se a palavra “desafio” for digitada, a pontuação esperada será 11:
 D E S A F I O
 2+1+1+1+4+1+1= 11
-
+*/
+//aperta f6, e tecle a letra D, o resultado vai ser 1 1
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
