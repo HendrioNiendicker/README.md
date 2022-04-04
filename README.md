@@ -1,4 +1,5 @@
 /*# README.md
+PODERIAM ME PASSAR COMO FAZ O DESAFIO UM, DOIS E TRÊS POR FAVOR, AGRADECIDO :)
 Desafio 01
 Dado uma palavra qualquer p, construa um algoritmo que calcule a pontuação da palavra de acordo com a pontuação informada na tabela abaixo:
 Por exemplo, se a palavra “desafio” for digitada, a pontuação esperada será 11:
